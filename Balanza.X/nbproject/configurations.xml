@@ -85,12 +85,20 @@
         <makeCustomizationNormalizeHexFile>false</makeCustomizationNormalizeHexFile>
       </makeCustomizationType>
       <item path="../src/ModBus.c" ex="true" overriding="false">
+        <ccscompiler>
+        </ccscompiler>
       </item>
       <item path="../src/ds1307.c" ex="true" overriding="false">
+        <ccscompiler>
+        </ccscompiler>
       </item>
       <item path="../src/inputs.c" ex="true" overriding="false">
+        <ccscompiler>
+        </ccscompiler>
       </item>
       <item path="../src/txtProtocol.c" ex="true" overriding="false">
+        <ccscompiler>
+        </ccscompiler>
       </item>
       <ccscompiler>
         <property key="cc-compat" value="0"/>
